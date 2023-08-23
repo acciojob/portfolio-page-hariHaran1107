@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+}
+#skills{
+	color:white;
+	background-color:gray;
+}
+ul{
+	color:white;
+}
+p{
+	color:white;
+}
+#projects{
+	background-color:gray;
+	color:white;
+}
